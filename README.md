@@ -38,6 +38,19 @@
 
 ---
 
+## 📸 Screenshots
+
+### 📝 Submit Form
+![Submit Form](https://imgur.com/NiwqSC1)
+
+### 🏠 Homepage
+![Homepage](https://imgur.com/jALcc1D)
+
+### 📄 Article View
+![Article](https://imgur.com/ZrjD6Dd)
+
+---
+
 ## 🤝 Submission Info
 
 This is a submission for the **[Storyblok Challenge on DEV](https://dev.to/challenges/storyblok)**
